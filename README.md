@@ -9,6 +9,7 @@ A proposta aqui é trabalhar a base do backend: rotas, requisições, respostas,
 Os dados devem ser mantidos **em memória**. Não use banco de dados neste desafio.
 
 O nome **Acta Diurna** vem dos boletins públicos da Roma Antiga, usados para divulgar registros e acontecimentos de interesse público. Neste desafio, a ideia é construir uma API REST simples para publicação, consulta, atualização e remoção de vagas.
+
 ---
 
 ## Stack obrigatória
